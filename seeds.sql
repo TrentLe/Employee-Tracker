@@ -1,5 +1,5 @@
-insert into employee( first_name, last_name, role_id)
+insert into employee( first_name, last_name)
 values
-    ("Mikasa", 'Akermann', 76)
-    ('Levi', 'Akermann', 76)
-    ('Eren', 'Yeager', 76)
+    ("Mikasa", 'Akermann')
+    ('Levi', 'Akermann')
+    ('Eren', 'Yeager')
